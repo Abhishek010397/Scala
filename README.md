@@ -17,3 +17,5 @@ The language, built on top of the Java Virtual Machine, provides:
     2.Interoperability
 
 Anything you use Java for, you can use Scala instead. It’s ideal for back-end code, scripts, software development, and web design. Programmers also tout Scala’s seamless integration of object-oriented features and functional languages as the perfect tool for parallel batch processing, data analysis using Spark, AWS Lambda expressions, and ad hoc scripting with REPL.
+
+![alt-text]()
